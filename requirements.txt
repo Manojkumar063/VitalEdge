@@ -1,0 +1,7 @@
+1. Install Python.
+2. Terminal: pip install streamlit google-generativeai python-dotenv
+3. Get Google API key.
+4. .env: GOOGLE_API_KEY=your_key
+5. Save code as wellness_app.py
+6. Terminal: streamlit run wellness_app.py
+7. Open browser.
