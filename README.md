@@ -8,10 +8,8 @@ WELLNESS_AI
 
 ---
 ## 📸 Screenshots
-
-### Application Preview
-![Screenshot 1](Screenshots/Screenshot_2025-03-16_215912.png)
-![Screenshot 2](Screenshots/Screenshot_2025-03-16_220032.png)
+"C:\Users\MANOJKUMAR\OneDrive\Pictures\Screenshots\Screenshot 2025-03-16 215912.png"
+"C:\Users\MANOJKUMAR\OneDrive\Pictures\Screenshots\Screenshot 2025-03-16 220032.png"
 
 
 ## 🚀 Key Features
