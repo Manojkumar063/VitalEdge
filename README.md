@@ -7,6 +7,12 @@ WELLNESS_AI
 **VitalEdge** is a cutting-edge AI-driven platform designed to help users achieve their health and wellness goals. Powered by the Agno AI Agent framework, this app crafts personalized diet plans, fitness routines, and lifestyle recommendations based on user inputs such as age, weight, height, activity level, dietary preferences, and overall objectives.
 
 ---
+## 📸 Screenshots
+
+### Application Preview
+![Screenshot 1](Screenshots/Screenshot_2025-03-16_215912.png)
+![Screenshot 2](Screenshots/Screenshot_2025-03-16_220032.png)
+
 
 ## 🚀 Key Features
 
